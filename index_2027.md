@@ -1,12 +1,12 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Joel Doh's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Joel Doh
+Student at Brigham Young University-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">doh20001@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
@@ -15,71 +15,47 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2024`
+__Brigham Young University-Idaho__, Rexburg, ID
+BS, Computer Science
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- GPA – 3.7
+- Awarded the Brigham Young University-Idaho Grant
+- Active member of the Associate for Computing Machinery Society
 
 
 ## Related Experience
 
-### Internships
+### Data Science Lab
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
+`January 2023 - March 2023`
 __Imagine Learning__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Query data and build charts 
+- Conduct analysis to data-driven decision making
+- Build machine learning model that at least 90% accuracy
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+### Projects
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`January 2023 - March 2023`
+__Association of Computer Machinery| BYU-Idaho__, Rexburg, ID
+
+- Chosen as the Documentation Lead over a team of 4 students, giving detailed explanation of the program on a README File
+- Collaborated with diverse teams to build a website for a nonprofit
+- Built the backend of the website using MongoDB and Node.js
+- Increased team efficiency and organization by planning weekly tasks using Trello
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Peer Advisor
 
+`September 2021 - Present`
+__Academic Advising Office__, Consultant
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Cooperated with 8 team members to help students proactively prepare for opportunities following graduation.
+- Developed solution designs in collaboration with team leads and manager, improving mentoring efficiency and allowing students to explore interests and potential career paths
+- Increase student’s professional success by coaching 3-4 students daily, educating them on soft and hard skills that would complement their degree after graduation
 
 <!-- ### Footer
 

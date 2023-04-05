@@ -57,6 +57,15 @@ __Academic Advising Office__, Consultant
 - Developed solution designs in collaboration with team leads and manager, improving mentoring efficiency and allowing students to explore interests and potential career paths
 - Increase student’s professional success by coaching 3-4 students daily, educating them on soft and hard skills that would complement their degree after graduation
 
+## Skills
+
+- Python, C#
+- R
+- MySQL
+- MongoDB
+- Microsoft Office
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
